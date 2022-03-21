@@ -20,7 +20,7 @@
 
 :seedling: I'm currently studying for the Cisco Certified Network Associate (CCNA) exam and undertaking the [100 Days of Code](https://github.com/jakec-dev/100-days-of-code) Python challenge
 
-:mailbox: Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-JakeClayton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakeclayton/)
+:mailbox: Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-JakeClayton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakeclayton/)
 
 ---
 
