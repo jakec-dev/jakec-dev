@@ -22,6 +22,11 @@
 
 :mailbox: Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-JakeClayton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakeclayton/)
 
+<div align="center">
+  <img src="./resume.jpg" width="400" />
+  <p><a href="https://github.com/jakec-dev/resume/raw/main/resume.pdf">Download Resume</a></p>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
