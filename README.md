@@ -18,14 +18,7 @@
 
 :telescope: I’m interested in Linux, cloud computing, scripting and automation, software development and all things coding
 
-:seedling: I'm currently studying for the Cisco Certified Network Associate (CCNA) exam and undertaking the [100 Days of Code](https://github.com/jakec-dev/100-days-of-code) Python challenge
-
 :mailbox: Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-JakeClayton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakeclayton/)
-
-<div align="center">
-  <a href="https://github.com/jakec-dev/resume/raw/main/resume.jpg" target="_blank"><img src="https://github.com/jakec-dev/resume/raw/main/resume.jpg" width="400" /></a>
-  <p><a href="https://github.com/jakec-dev/resume/raw/main/resume.pdf" target="_blank">Download Resume</a></p>
-</div>
 
 ---
 
